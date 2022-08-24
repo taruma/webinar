@@ -8,13 +8,12 @@ Untuk sitasi dan materi (pdf) terbaru bisa menggunakan DOI berikut: https://doi.
 Dokumen | Link | DOI/version | Format | Note
 --- | --- | --- | --- | ---
 Materi - Aplikasi Pengolahan Data Hujan Berbasis Web | [figshare](https://doi.org/10.6084/m9.figshare.20528220) | 10.6084/m9.figshare.20528220 / v3 / v0.2.3 | .pdf | -
-Presentation Show - Aplikasi Pengolahan Data Hujan Berbasis Web | - | v0.2.3 | .ppsx | ukuran: ~250 MB
+Powerpoint Show - Aplikasi Pengolahan Data Hujan Berbasis Web | [onedrive](https://1drv.ms/p/s!AmxSTa4UunElhvJFBQpopHrYXC-nUw?e=uUCjEP) | v0.2.3 | .ppsx | ukuran: ~250 MB
 Video Slideshow - Aplikasi Pengolahan Data Hujan Berbasis Web | [youtube](https://youtu.be/uk4VelIus3w) | v0.2.3 | - | -
 
 ## Changelog
 
 - v0.2.3 - First Uploaded to Github 
-
 
 ## Informasi Webinar
 
