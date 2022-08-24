@@ -5,14 +5,24 @@ Untuk sitasi dan materi (pdf) terbaru bisa menggunakan DOI berikut: https://doi.
 
 ## Link
 
+<div align="center">
+
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.20528220-blue)](https://doi.org/10.6084/m9.figshare.20528220)
+
+![](https://img.shields.io/badge/PPT%20version-v1.0.0-orange)
+![](https://img.shields.io/badge/DOI%20version-v4-green)
+
+</div>
+
 Dokumen | Link | DOI/version | Format | Note
 --- | --- | --- | --- | ---
-Materi - Aplikasi Pengolahan Data Hujan Berbasis Web | [figshare](https://doi.org/10.6084/m9.figshare.20528220) | 10.6084/m9.figshare.20528220 / v3 / v0.2.3 | .pdf | -
-Powerpoint Show - Aplikasi Pengolahan Data Hujan Berbasis Web | [onedrive](https://1drv.ms/p/s!AmxSTa4UunElhvJFBQpopHrYXC-nUw?e=uUCjEP) | v0.2.3 | .ppsx | ukuran: ~250 MB
-Video Slideshow - Aplikasi Pengolahan Data Hujan Berbasis Web | [youtube](https://youtu.be/uk4VelIus3w) | v0.2.3 | - | -
+Materi - Aplikasi Pengolahan Data Hujan Berbasis Web | [figshare](https://doi.org/10.6084/m9.figshare.20528220) | 10.6084/m9.figshare.20528220 / v4 / v1.0.0 | .pdf | -
+Powerpoint Show - Aplikasi Pengolahan Data Hujan Berbasis Web | [onedrive](https://1drv.ms/p/s!AmxSTa4UunElhvJT6-YVyw370dGu4w?e=WcyYL9) | v1.0.0 | .ppsx | ukuran: ~250 MB
+Video Slideshow - Aplikasi Pengolahan Data Hujan Berbasis Web | [youtube](https://youtu.be/mCOpd4BOVu4) | v1.0.0 | - | -
 
 ## Changelog
 
+- v1.0.0 - Final Release Public
 - v0.2.3 - First Uploaded to Github 
 
 ## Informasi Webinar
