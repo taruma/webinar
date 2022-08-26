@@ -7,7 +7,7 @@ WIP = Work In Progress
 
 Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 --- | --- | --- | --- | ---
-Aplikasi Pengolahan Data Hujan Berbasis Web | sipilpedia | Jum'at, 26 Agustus 2022, 14.00 - 17.00 WIB | [Repository](./sipilpedia#readme) | WIP - Tahap Persiapan
+\- | - | - | - | -
 
 ---
 
@@ -15,6 +15,7 @@ Aplikasi Pengolahan Data Hujan Berbasis Web | sipilpedia | Jum'at, 26 Agustus 20
 
 Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 --- | --- | --- | --- | ---
+Aplikasi Pengolahan Data Hujan Berbasis Web | sipilpedia | Jum'at, 26 Agustus 2022, 14.00 - 17.00 WIB | [Repository](./sipilpedia#readme) | -
 dashboard pengolah data hujan | fiakodev | 27 Juli 2022 | - | dibatalkan
 dashboard pengolah data hujan | fiakodev | 25 Juli 2022 | [Repository](./fiakodev/20220725-pengolah-data-hujan#readme) | -
 Frequency Analysis in Hydrology (fiako-anfrek) | fiakodev | 08 Juli 2022 | [Repository](./fiakodev/20220707-aplikasi-fiakodev#readme) | demonstrasi/presentasi
