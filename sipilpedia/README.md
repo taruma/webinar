@@ -9,19 +9,22 @@ Untuk sitasi dan materi (pdf) terbaru bisa menggunakan DOI berikut: https://doi.
 
 [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.20528220-blue)](https://doi.org/10.6084/m9.figshare.20528220)
 
-![](https://img.shields.io/badge/PPT%20version-v1.0.0-orange)
-![](https://img.shields.io/badge/DOI%20version-v4-green)
+[![](https://img.shields.io/badge/PPT%20version-v1.1.0-orange)](#readme)
+[![](https://img.shields.io/badge/DOI%20version-v5-green)](#readme)
 
 </div>
 
 Dokumen | Link | DOI/version | Format | Note
 --- | --- | --- | --- | ---
-Materi - Aplikasi Pengolahan Data Hujan Berbasis Web | [figshare](https://doi.org/10.6084/m9.figshare.20528220) | 10.6084/m9.figshare.20528220 / v4 / v1.0.0 | .pdf | -
-Powerpoint Show - Aplikasi Pengolahan Data Hujan Berbasis Web | [onedrive](https://1drv.ms/p/s!AmxSTa4UunElhvJT6-YVyw370dGu4w?e=WcyYL9) | v1.0.0 | .ppsx | ukuran: ~250 MB
-Video Slideshow - Aplikasi Pengolahan Data Hujan Berbasis Web | [youtube](https://youtu.be/mCOpd4BOVu4) | v1.0.0 | - | -
+Video Webinar - Webinar Series Teknik Sipil Session 71 | [sipilpedia](https://sipilpediaacademy.com/courses/webinar-series-teknik-sipil/) | "Aplikasi Pengolahan Data Hujan Berbasis Web" | - | Daftar e-course webinar (gratis), bab "SDA"
+Materi - Aplikasi Pengolahan Data Hujan Berbasis Web | [figshare](https://doi.org/10.6084/m9.figshare.20528220) | 10.6084/m9.figshare.20528220 / v5 / v1.1.0 | .pdf | -
+Powerpoint Show - Aplikasi Pengolahan Data Hujan Berbasis Web | [onedrive](https://1drv.ms/p/s!AmxSTa4UunElhvJpRN85628b6RxcOg?e=f6crE9) | v1.1.0 | .ppsx | ukuran: ~250 MB
+Video Slideshow - Aplikasi Pengolahan Data Hujan Berbasis Web | [youtube](https://youtu.be/SPZPWN3C_CI) | v1.1.0 | - | -
+Jawaban Pertanyaan | [github](https://github.com/fiakoenjiniring/forum/discussions/3) | - | - | yang tidak sempat terjawab di sesi _live_
 
 ## Changelog
 
+- v1.1.0 - Tambah QRCode video webinar + jawaban pertanyaan + fiakodev-insider.
 - v1.0.0 - Final Release Public
 - v0.2.3 - First Uploaded to Github 
 
