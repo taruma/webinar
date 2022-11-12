@@ -15,6 +15,8 @@ Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 
 Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 --- | --- | --- | --- | ---
+Greenhorn: feidlambda II: Exploring Dynamic Array + User Defined Lambda | fiakodev | 8 November 2022 | <lambda.fiako.engineering> | -
+Pengembangan Aplikasi Pengolahan Data Hujan Berbasis Web | PIT HATHI 39 | 22 Oktober 2022 | - | -
 Aplikasi Pengolahan Data Hujan Berbasis Web | sipilpedia | Jum'at, 26 Agustus 2022, 14.00 - 17.00 WIB | [Repository](./sipilpedia#readme) | -
 dashboard pengolah data hujan | fiakodev | 27 Juli 2022 | - | dibatalkan
 dashboard pengolah data hujan | fiakodev | 25 Juli 2022 | [Repository](./fiakodev/20220725-pengolah-data-hujan#readme) | -
@@ -29,9 +31,7 @@ launching hidrokit 0.4.0 | hidrokit/fiakodev | 16 April 2022 | [Repository](./fi
 
 Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 --- | --- | --- | --- | ---
-Visualisasi Interaktif Menggunakan plotly | fiakodev | September 2022 | - | WIP - Tahap Penulisan
-Pengembangan Aplikasi Pengolahan Data Hujan Berbasis Web | PIT HATHI 39 | 22 Oktober 2022 | Rilis pada tanggal 22 Oktober 2022 | Jika _full paper_ diterima/selesai dan terpilih
-Menggunakan LAMBDA dan LET di Microsoft Excel | fiakodev | November 2022 | - | WIP - Tahap Implementasi & Pengembangan
+Visualisasi Interaktif Menggunakan plotly | fiakodev | N/A | - | WIP - Tahap Penulisan
 Penggunaan Python untuk Hidrologi atau Teknik Sipil | fiakodev | N/A | - | WIP - Tahap Perencanaan 
 Technical Workshop: Dashboard Pengolahan Data Hujan | fiakodev | N/A | - | WIP - Tahap Penulisan (menggunakan google classroom)
 
