@@ -15,7 +15,7 @@ Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 
 Judul Webinar | Penyelenggara | Tanggal | Repository | Note
 --- | --- | --- | --- | ---
-Greenhorn: feidlambda II: Exploring Dynamic Array + User Defined Lambda | fiakodev | 8 November 2022 | <lambda.fiako.engineering> | -
+Greenhorn: feidlambda II: Exploring Dynamic Array + User Defined Lambda | fiakodev | 8 November 2022 | [lambda.fiako.engineering](https://lambda.fiako.engineering) | -
 Pengembangan Aplikasi Pengolahan Data Hujan Berbasis Web | PIT HATHI 39 | 22 Oktober 2022 | - | -
 Aplikasi Pengolahan Data Hujan Berbasis Web | sipilpedia | Jum'at, 26 Agustus 2022, 14.00 - 17.00 WIB | [Repository](./sipilpedia#readme) | -
 dashboard pengolah data hujan | fiakodev | 27 Juli 2022 | - | dibatalkan
